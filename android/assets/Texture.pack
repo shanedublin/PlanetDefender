@@ -1,0 +1,68 @@
+
+Texture.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Mars
+  rotate: false
+  xy: 1, 101
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+mercury
+  rotate: false
+  xy: 131, 101
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+SpaceStation
+  rotate: false
+  xy: 261, 101
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Sun
+  rotate: false
+  xy: 391, 101
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Venus
+  rotate: false
+  xy: 521, 101
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+commet
+  rotate: false
+  xy: 1, 35
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Earth
+  rotate: false
+  xy: 651, 165
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+SpaceShip
+  rotate: false
+  xy: 67, 35
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+orb
+  rotate: false
+  xy: 1, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
